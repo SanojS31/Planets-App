@@ -1,4 +1,4 @@
-## **_Website_**:[https://durgaplanetsapp.ccbp.tech/](https://durgaplanetsapp.ccbp.tech/)🔗
+## **_Website_**:[https://sanojplanets.ccbp.tech/](https://sanojplanets.ccbp.tech/)🔗
 
 
 In this project, let's build a **Planets App** by applying the concepts we have learned till now.
